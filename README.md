@@ -22,8 +22,8 @@ It includes simple examples of HTML tags, elements, and document structure.
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
-- Afaque Azam
+**Afaque Azam**  
+
 
 
 ⭐ Don’t forget to star this repo if you like it!
